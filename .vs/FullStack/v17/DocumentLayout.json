@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Technezo\\Documents\\NETCoreWithReact\\FullStack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52FAEEA0-1BF9-468F-8B65-D766901B33FE}|fullstack.client\\fullstack.client.esproj|c:\\users\\technezo\\documents\\netcorewithreact\\fullstack\\fullstack.client\\src\\components\\product.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{52FAEEA0-1BF9-468F-8B65-D766901B33FE}|fullstack.client\\fullstack.client.esproj|solutionrelative:fullstack.client\\src\\components\\product.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B6CAC1-4385-4876-8955-EE2830865B12}|FullStack.Server\\FullStack.Server.csproj|c:\\users\\technezo\\documents\\netcorewithreact\\fullstack\\fullstack.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B6CAC1-4385-4876-8955-EE2830865B12}|FullStack.Server\\FullStack.Server.csproj|solutionrelative:fullstack.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B6CAC1-4385-4876-8955-EE2830865B12}|FullStack.Server\\FullStack.Server.csproj|c:\\users\\technezo\\documents\\netcorewithreact\\fullstack\\fullstack.server\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B6CAC1-4385-4876-8955-EE2830865B12}|FullStack.Server\\FullStack.Server.csproj|solutionrelative:fullstack.server\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FAEEA0-1BF9-468F-8B65-D766901B33FE}|fullstack.client\\fullstack.client.esproj|c:\\users\\technezo\\documents\\netcorewithreact\\fullstack\\fullstack.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{52FAEEA0-1BF9-468F-8B65-D766901B33FE}|fullstack.client\\fullstack.client.esproj|solutionrelative:fullstack.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B6CAC1-4385-4876-8955-EE2830865B12}|FullStack.Server\\FullStack.Server.csproj|c:\\users\\technezo\\documents\\netcorewithreact\\fullstack\\fullstack.server\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B6CAC1-4385-4876-8955-EE2830865B12}|FullStack.Server\\FullStack.Server.csproj|solutionrelative:fullstack.server\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52FAEEA0-1BF9-468F-8B65-D766901B33FE}|fullstack.client\\fullstack.client.esproj|c:\\users\\technezo\\documents\\netcorewithreact\\fullstack\\fullstack.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{52FAEEA0-1BF9-468F-8B65-D766901B33FE}|fullstack.client\\fullstack.client.esproj|solutionrelative:fullstack.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B6CAC1-4385-4876-8955-EE2830865B12}|FullStack.Server\\FullStack.Server.csproj|c:\\users\\technezo\\documents\\netcorewithreact\\fullstack\\fullstack.server\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B6CAC1-4385-4876-8955-EE2830865B12}|FullStack.Server\\FullStack.Server.csproj|solutionrelative:fullstack.server\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B6CAC1-4385-4876-8955-EE2830865B12}|FullStack.Server\\FullStack.Server.csproj|c:\\users\\technezo\\documents\\netcorewithreact\\fullstack\\fullstack.server\\fullstack.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{92B6CAC1-4385-4876-8955-EE2830865B12}|FullStack.Server\\FullStack.Server.csproj|solutionrelative:fullstack.server\\fullstack.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B6CAC1-4385-4876-8955-EE2830865B12}|FullStack.Server\\FullStack.Server.csproj|c:\\users\\technezo\\documents\\netcorewithreact\\fullstack\\fullstack.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{92B6CAC1-4385-4876-8955-EE2830865B12}|FullStack.Server\\FullStack.Server.csproj|solutionrelative:fullstack.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.jsx",
+              "DocumentMoniker": "C:\\Users\\Technezo\\Documents\\NETCoreWithReact\\FullStack\\fullstack.client\\src\\components\\Product.jsx",
+              "RelativeDocumentMoniker": "fullstack.client\\src\\components\\Product.jsx",
+              "ToolTip": "C:\\Users\\Technezo\\Documents\\NETCoreWithReact\\FullStack\\fullstack.client\\src\\components\\Product.jsx",
+              "RelativeToolTip": "fullstack.client\\src\\components\\Product.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-08-19T08:54:20.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\Technezo\\Documents\\NETCoreWithReact\\FullStack\\fullstack.client\\package.json",
+              "RelativeDocumentMoniker": "fullstack.client\\package.json",
+              "ToolTip": "C:\\Users\\Technezo\\Documents\\NETCoreWithReact\\FullStack\\fullstack.client\\package.json",
+              "RelativeToolTip": "fullstack.client\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-19T08:50:53.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Technezo\\Documents\\NETCoreWithReact\\FullStack\\FullStack.Server\\Program.cs",
+              "RelativeDocumentMoniker": "FullStack.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Technezo\\Documents\\NETCoreWithReact\\FullStack\\FullStack.Server\\Program.cs",
+              "RelativeToolTip": "FullStack.Server\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T08:24:50.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Technezo\\Documents\\NETCoreWithReact\\FullStack\\FullStack.Server\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "FullStack.Server\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Technezo\\Documents\\NETCoreWithReact\\FullStack\\FullStack.Server\\Models\\Product.cs",
+              "RelativeToolTip": "FullStack.Server\\Models\\Product.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T08:09:57.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Technezo\\Documents\\NETCoreWithReact\\FullStack\\FullStack.Server\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "FullStack.Server\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Technezo\\Documents\\NETCoreWithReact\\FullStack\\FullStack.Server\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "FullStack.Server\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T08:09:21.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\Technezo\\Documents\\NETCoreWithReact\\FullStack\\fullstack.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "fullstack.client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\Technezo\\Documents\\NETCoreWithReact\\FullStack\\fullstack.client\\src\\App.jsx",
+              "RelativeToolTip": "fullstack.client\\src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-08-19T08:01:09.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Technezo\\Documents\\NETCoreWithReact\\FullStack\\FullStack.Server\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "FullStack.Server\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Technezo\\Documents\\NETCoreWithReact\\FullStack\\FullStack.Server\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "FullStack.Server\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T08:11:30.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FullStack.Server",
+              "DocumentMoniker": "C:\\Users\\Technezo\\Documents\\NETCoreWithReact\\FullStack\\FullStack.Server\\FullStack.Server.csproj",
+              "RelativeDocumentMoniker": "FullStack.Server\\FullStack.Server.csproj",
+              "ToolTip": "C:\\Users\\Technezo\\Documents\\NETCoreWithReact\\FullStack\\FullStack.Server\\FullStack.Server.csproj",
+              "RelativeToolTip": "FullStack.Server\\FullStack.Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-19T08:09:29.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Technezo\\Documents\\NETCoreWithReact\\FullStack\\FullStack.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "FullStack.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\Technezo\\Documents\\NETCoreWithReact\\FullStack\\FullStack.Server\\appsettings.json",
+              "RelativeToolTip": "FullStack.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-19T08:02:52.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

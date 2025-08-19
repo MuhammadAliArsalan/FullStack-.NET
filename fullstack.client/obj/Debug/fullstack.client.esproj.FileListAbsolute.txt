@@ -1,0 +1,1 @@
+C:\Users\Technezo\Documents\NETCoreWithReact\FullStack\fullstack.client\obj\Debug\fullstack.client.esproj.CoreCompileInputs.cache
