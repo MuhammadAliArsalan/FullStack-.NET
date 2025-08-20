@@ -10,7 +10,7 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 builder.Services.AddCors(options =>
 {
 	options.AddPolicy("AllowReact", policy =>
-		policy.WithOrigins("https://localhost:5174") // React dev server URL
+		policy.WithOrigins("https://localhost:5173") // React dev server URL
 			  .AllowAnyHeader()
 			  .AllowAnyMethod());
 });

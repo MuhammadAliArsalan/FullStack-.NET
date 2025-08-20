@@ -72,22 +72,24 @@ namespace FullStack.Server.Controllers
 
 		}
 		[HttpDelete("{id}")]
-		public ActionResult<Product> DeleteProduct(int id, Product product)
+		
+		public ActionResult DeleteProduct(int id)
 		{
-			var product2 = _context.Products.Find(id);
-			if (product2 == null)
+			var product = _context.Products.Find(id);
+			if (product == null)
 				return NotFound();
 
 			try
 			{
-				_context.Products.Remove(product2);
+				_context.Products.Remove(product);
 				_context.SaveChanges();
-				return Ok(); // 200 OK
+				return Ok();
 			}
 			catch
 			{
 				return StatusCode(StatusCodes.Status500InternalServerError);
 			}
 		}
+
 	}
 }

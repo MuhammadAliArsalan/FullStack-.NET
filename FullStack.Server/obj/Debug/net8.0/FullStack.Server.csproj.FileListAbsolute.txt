@@ -111,3 +111,4 @@ C:\Users\Technezo\Documents\NETCoreWithReact\FullStack\FullStack.Server\obj\Debu
 C:\Users\Technezo\Documents\NETCoreWithReact\FullStack\FullStack.Server\obj\Debug\net8.0\FullStack.Server.pdb
 C:\Users\Technezo\Documents\NETCoreWithReact\FullStack\FullStack.Server\obj\Debug\net8.0\FullStack.Server.genruntimeconfig.cache
 C:\Users\Technezo\Documents\NETCoreWithReact\FullStack\FullStack.Server\obj\Debug\net8.0\ref\FullStack.Server.dll
+C:\Users\Technezo\Documents\NETCoreWithReact\FullStack\FullStack.Server\obj\Debug\net8.0\FullStack.Server.sourcelink.json

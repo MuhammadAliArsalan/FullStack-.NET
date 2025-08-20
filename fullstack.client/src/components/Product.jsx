@@ -3,6 +3,7 @@ import axios from "axios";
 
 const Products = () => {
 
+    // get ALl products and delete a Product
     const [products, setProducts] = useState([]);
     const [Loading, setLoading] = useState(true);
     const [error, setError] = useState(false);
@@ -25,6 +26,18 @@ const Products = () => {
     }, []); // dependency array
 
 
+    const deleteProduct = async (id) => {
+        if (!window.confirm("Are you sure you want to delete this product?")) return;
+
+        try {
+            await axios.delete(`http://localhost:5029/api/Product/${id}`);
+            setProducts(products.filter(p => p.id !== id));
+        } catch (err) {
+            console.error("Delete failed:", err);
+            alert("Failed to delete product.");
+        }
+    };
+
     if (Loading) return <p>Loading...</p>
     if (error) return <p>Error fetching products!</p>
 
@@ -42,8 +55,10 @@ const Products = () => {
                             borderRadius: "5px",
                             backgroundColor: "#f9f9f9",
                         }}
+
                     >
                         <strong>{p.name}</strong> - ${p.price}
+                        <button onClick={() => deleteProduct(p.id)}>Delete</button>
                         <p style={{ margin: "5px 0 0 0", color: "#555" }}>{p.description}</p>
                     </li>
                 ))}

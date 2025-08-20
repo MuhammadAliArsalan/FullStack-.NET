@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tA1i13F+nQn0xORlnuzDo2wJnQXnqw28E0E6cgoFrEY=",
+  "Hash": "HTS8/ySMjTdjZZfHdLssqe21R/Eg46SBQ96LDE/VMTQ=",
   "Source": "FullStack.Server",
   "BasePath": "_content/FullStack.Server",
   "Mode": "Default",
@@ -11,10 +11,10 @@
       "Version": 2,
       "Source": "fullstack.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
-      "AdditionalPublishProperties": "",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
       "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
       "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
-      "AdditionalBuildProperties": "",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
       "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
     }
   ],
