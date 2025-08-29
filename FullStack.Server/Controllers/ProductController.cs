@@ -72,8 +72,7 @@ namespace FullStack.Server.Controllers
 
 		}
 		[HttpDelete("{id}")]
-		
-		public ActionResult DeleteProduct(int id)
+     	public ActionResult DeleteProduct(int id)
 		{
 			var product = _context.Products.Find(id);
 			if (product == null)
